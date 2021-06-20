@@ -1,0 +1,12 @@
+﻿  TrabalhoN2POO.cpp
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(120,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(125,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(129,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(134,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(147,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(151,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(155,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(164,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(180,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\source\repos\TrabalhoN2POO\TrabalhoN2POO.cpp(196,35): warning C4018: '<': signed/unsigned mismatch
+  TrabalhoN2POO.vcxproj -> C:\Users\tiago\source\repos\TrabalhoN2POO\Debug\TrabalhoN2POO.exe
